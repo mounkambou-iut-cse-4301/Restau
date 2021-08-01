@@ -1,2 +1,2 @@
-# KBRestau est un frontend developper avec bootstrap.
+# KBRestau is a fontend of a resturant pasge with bootstrap.
  
